@@ -1,6 +1,5 @@
 import sys
 count=0
-j=0
 t=0
 r=0
 flag=0
